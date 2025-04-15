@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bheemireddi
-- 👀 I’m interested in Data Engineer 
+- 👀 I’m interested in Data Analyst 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
